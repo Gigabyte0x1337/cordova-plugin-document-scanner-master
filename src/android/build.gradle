@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.NeutrinosPlatform:scanlibrary:3.3'
+	implementation 'com.github.AspectICT:scanlibrary:3740c27633d481f9ea5008016c82d2b1b74bbfd7'
 }
