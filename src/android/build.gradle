@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.AspectICT:scanlibrary:3740c27633d481f9ea5008016c82d2b1b74bbfd7'
+	implementation 'com.github.AspectICT:scanlibrary:3cbdec33d8e09e0abbe99f1cc5b748be82ff3e2b'
 }
